@@ -1,6 +1,6 @@
-# Comp20008-2021sm1a2
+# COMP20008-A2
 
-**Members:** Ron Chen <br />
+**Co-authors:** Ron Chen <br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Aoxiang Xiao <br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Un Leng Kam <br />
 
