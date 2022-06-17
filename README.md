@@ -1,8 +1,17 @@
 # COMP20008-A2
+## Assignment 2 of COMP20008 Elements of Data Processing at University of Melbourne
 
 **Co-authors:** Ron Chen <br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Aoxiang Xiao <br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Un Leng Kam <br />
+
+Created: Semester 1 2021
+
+Demonstrates ability to use Python to perform Data Cleaning and Data Analysis
+
+Includes a report on findings
+
+*Due to Copyright reasons may not upload Assignment Specification*
 
 Programmes used: Python and Excel<br />
 Libraries used: pandas, NumPy, re, matplotlib, sklearn, math and statistics
